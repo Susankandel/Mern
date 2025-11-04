@@ -15,5 +15,3 @@ GIT COMMAND
 
 4. push
    => git push origin <branch>
-
-
